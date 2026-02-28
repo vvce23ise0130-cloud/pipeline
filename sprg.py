@@ -1,0 +1,5 @@
+print("Line 1: Hello")
+print("Line 2: Welcome")
+print("Line 3: This is Python")
+print("Line 4: Simple program")
+print("Line 5: Goodbye!")
